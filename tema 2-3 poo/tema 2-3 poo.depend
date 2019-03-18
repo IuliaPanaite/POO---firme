@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1495923759 source:d:\code blocks\tema 2-3 poo\main.cpp
+	<iostream>
+	<cstring>
+	"interogare.h"
+
+1495811265 source:d:\code blocks\tema 2-3 poo\bijuterii.cpp
+	<iostream>
+	"bijuterii.h"
+	<string.h>
+
+1495748561 d:\code blocks\tema 2-3 poo\bijuterii.h
+	<iostream>
+	"firme.h"
+
+1495887970 d:\code blocks\tema 2-3 poo\firme.h
+	<iostream>
+	"firmeAbs.h"
+
+1495736906 d:\code blocks\tema 2-3 poo\firmeabs.h
+	<iostream>
+
+1495811232 source:d:\code blocks\tema 2-3 poo\electronice.cpp
+	<iostream>
+	"electronice.h"
+	<string.h>
+
+1495748073 d:\code blocks\tema 2-3 poo\electronice.h
+	<iostream>
+	"firme.h"
+
+1496070121 source:d:\code blocks\tema 2-3 poo\firme.cpp
+	<iostream>
+	"firme.h"
+	<cstring>
+	<new>
+
+1495811248 source:d:\code blocks\tema 2-3 poo\patiserie.cpp
+	<iostream>
+	"patiserie.h"
+	<string.h>
+
+1495748155 d:\code blocks\tema 2-3 poo\patiserie.h
+	<iostream>
+	"firme.h"
+
+1496072243 d:\code blocks\tema 2-3 poo\interogare.h
+	<iostream>
+	<string>
+	"electronice.h"
+	"patiserie.h"
+	"bijuterii.h"
+
+1495807665 source:c:\users\iulianap\desktop\facultate\tema 2-3 poo\bijuterii.cpp
+	<iostream>
+	"bijuterii.h"
+	<string.h>
+
+1495744961 c:\users\iulianap\desktop\facultate\tema 2-3 poo\bijuterii.h
+	<iostream>
+	"firme.h"
+
+1495884370 c:\users\iulianap\desktop\facultate\tema 2-3 poo\firme.h
+	<iostream>
+	"firmeAbs.h"
+
+1495733306 c:\users\iulianap\desktop\facultate\tema 2-3 poo\firmeabs.h
+	<iostream>
+
+1495807632 source:c:\users\iulianap\desktop\facultate\tema 2-3 poo\electronice.cpp
+	<iostream>
+	"electronice.h"
+	<string.h>
+
+1495744473 c:\users\iulianap\desktop\facultate\tema 2-3 poo\electronice.h
+	<iostream>
+	"firme.h"
+
+1496066521 source:c:\users\iulianap\desktop\facultate\tema 2-3 poo\firme.cpp
+	<iostream>
+	"firme.h"
+	<cstring>
+	<new>
+
+1495920159 source:c:\users\iulianap\desktop\facultate\tema 2-3 poo\main.cpp
+	<iostream>
+	<cstring>
+	"interogare.h"
+
+1496069577 c:\users\iulianap\desktop\facultate\tema 2-3 poo\interogare.h
+	<iostream>
+	<string>
+	"electronice.h"
+	"patiserie.h"
+	"bijuterii.h"
+
+1495744555 c:\users\iulianap\desktop\facultate\tema 2-3 poo\patiserie.h
+	<iostream>
+	"firme.h"
+
+1495807648 source:c:\users\iulianap\desktop\facultate\tema 2-3 poo\patiserie.cpp
+	<iostream>
+	"patiserie.h"
+	<string.h>
+
